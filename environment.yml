@@ -1,5 +1,9 @@
 name: environment-hackathon
+channels:
+- conda-forge
 dependencies:
+  - python
   - numpy
   - pandas
   - sklearn
+  
